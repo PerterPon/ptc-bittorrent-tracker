@@ -1,1 +1,1 @@
-forked from ![https://www.npmjs.com/package/bittorrent-tracker](https://www.npmjs.com/package/bittorrent-tracker)
+forked from [https://www.npmjs.com/package/bittorrent-tracker](https://www.npmjs.com/package/bittorrent-tracker)
