@@ -59,6 +59,7 @@ class Client extends EventEmitter {
     this._rtcConfig = opts.rtcConfig
     this._userAgent = opts.userAgent
     this._proxyOpts = opts.proxyOpts
+    this.timeoutTime = opts.timeoutTime
 
     // Support lazy 'wrtc' module initialization
     // See: https://github.com/webtorrent/webtorrent-hybrid/issues/46
